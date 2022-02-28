@@ -1,11 +1,11 @@
 <style>
 audio{
 	height: 50px;
-	width: 180px;
+	width: 150px;
 	margin: auto;
 }
 table th:nth-of-type(8) {
-    width: 400px;
+    width: 800px;
 }
 </style>
 - - -

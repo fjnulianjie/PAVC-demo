@@ -4,8 +4,8 @@ audio{
 	width: 180px;
 	margin: auto;
 }
-table th:nth-of-type(8) {
-    width: 5cm;
+th:nth-child(8){
+	width: 400px;
 }
 </style>
 - - -

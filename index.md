@@ -6,21 +6,21 @@ Comparing with traditional one-to-one or many-to-many tasks, it is more difficul
 
 ### Demo Utterances (All of the following speakers were not seen during training)
 
-| **Transcription** | "Domestic orders have also fallen since January." |
+| **Transcription** | "Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows." |
 | :--- | :--- |
 | **Source** | <audio src="audios/source/p227_019.wav" controls preload></audio> |
-| :--- | :--- |
+| :---: | :---: |
 | **Target** | <audio src="audios/target/p313_397.wav" controls preload></audio> |
-| :--- | :--- |
+| :---: | :---: |
 | **Ours** | <audio src="audios/PAVC_128/m2f/p227_0192p313_397.wav" controls preload></audio> |
-| :--- | :--- |
+| :---: | :---: |
 | **AdaIN-VC** | <audio src="audios/adainvc/m2f/p227_0192p313_397.wav" controls preload></audio> |
-| :--- | :--- |
+| :---: | :---: |
 | **AutoVC** | <audio src="audios/autovc/m2f/p227_0192p313_397.wav" controls preload></audio> |
-| :--- | :--- |
+| :---: | :---: |
 | **VQVC+** | <audio src="audios/vqvc/m2f/p227_0192p313_397.wav" controls preload></audio> |
-| :--- | :--- |
+| :---: | :---: |
 | **AGAINVC+** | <audio src="audios/againvc/m2f/p227_0192p313_397.wav" controls preload></audio> |
-| :--- | :--- |
+| :---: | :---: |
 
 ---

@@ -5,7 +5,7 @@ audio{
 	margin: auto;
 }
 font{
-	width: 300px;
+	width: 500px;
 }
 </style>
 - - -

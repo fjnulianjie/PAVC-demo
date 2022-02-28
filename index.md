@@ -16,8 +16,11 @@ Comparing with traditional one-to-one or many-to-many tasks, it is more difficul
 ---
 
 #### male-to-female
-1.first sentence: "Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows."
-2.second sentence: "Others have tried to explain the phenomenon physically."
+
+*first sentence: "Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows."
+
+*second sentence: "Others have tried to explain the phenomenon physically."
+
 | **Source** | **Target** | **Ours** | **AdaIN-VC** | **AutoVC** | **VQVC+** | **AGAIN-VC** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <audio src="audios/source/p227_019.wav" controls preload></audio> | <audio src="audios/target/p313_397.wav" controls preload></audio> | <audio src="audios/PAVC_128/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/adainvc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/autovc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/vqvc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/againvc/m2f/p227_0192p313_397.wav" controls preload></audio> | 
@@ -26,8 +29,11 @@ Comparing with traditional one-to-one or many-to-many tasks, it is more difficul
 ---
 
 #### male-to-male
-1.first sentence: "The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows."
-2.second sentence: "The sisters also became the top two players in the world."
+
+*first sentence: "The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows."
+
+*second sentence: "The sisters also became the top two players in the world."
+
 | **Source** | **Target** | **Ours** | **AdaIN-VC** | **AutoVC** | **VQVC+** | **AGAIN-VC** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <audio src="audios/source/p260_022.wav" controls preload></audio> | <audio src="audios/target/p376_027.wav" controls preload></audio> | <audio src="audios/PAVC_128/m2m/p260_0222p376_027.wav" controls preload></audio> | <audio src="audios/adainvc/m2m/p260_0222p376_027.wav" controls preload></audio> | <audio src="audios/autovc/m2m/p260_0222p376_027.wav" controls preload></audio> | <audio src="audios/vqvc/m2m/p260_0222p376_027.wav" controls preload></audio> | <audio src="audios/againvc/m2m/p260_0222p376_027.wav" controls preload></audio> |

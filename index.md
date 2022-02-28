@@ -4,6 +4,9 @@ audio{
 	width: 250px;
 	margin: auto;
 }
+table th:nth-of-type(8) {
+    width: 300px;
+}
 </style>
 - - -
 ## Abstract

@@ -17,9 +17,8 @@ Comparing with traditional one-to-one or many-to-many tasks, it is more difficul
 
 #### male-to-female
 
-*first sentence: "Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows."
-
-*second sentence: "Others have tried to explain the phenomenon physically."
+* first sentence: "Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows."
+* second sentence: "Others have tried to explain the phenomenon physically."
 
 | **Source** | **Target** | **Ours** | **AdaIN-VC** | **AutoVC** | **VQVC+** | **AGAIN-VC** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -30,9 +29,8 @@ Comparing with traditional one-to-one or many-to-many tasks, it is more difficul
 
 #### male-to-male
 
-*first sentence: "The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows."
-
-*second sentence: "The sisters also became the top two players in the world."
+* first sentence: "The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows."
+* second sentence: "The sisters also became the top two players in the world."
 
 | **Source** | **Target** | **Ours** | **AdaIN-VC** | **AutoVC** | **VQVC+** | **AGAIN-VC** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

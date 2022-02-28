@@ -7,7 +7,7 @@ Comparing with traditional one-to-one or many-to-many tasks, it is more difficul
 ### Demo Utterances (All of the following speakers were not seen during training)
 
 | **Transcription** | "Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows." |
-| :--- | :--- |
+| :---: | :--- |
 | **Source** | <audio src="audios/source/p227_019.wav" controls preload></audio> |
 | :---: | :---: |
 | **Target** | <audio src="audios/target/p313_397.wav" controls preload></audio> |

@@ -5,7 +5,7 @@ audio{
 	margin: auto;
 }
 table th:nth-of-type(8) {
-    width: 300px;
+    width: 500px;
 }
 </style>
 - - -

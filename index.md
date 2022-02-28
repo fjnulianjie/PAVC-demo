@@ -1,3 +1,10 @@
+<style>
+audio{
+		height: 50px;
+		width: 200px;
+		margin: auto;
+}
+</style>
 - - -
 ## Abstract
 Arbitrary voice conversion, also named as zero-shot voice conversion, is a challenging task which transforms the voice from one speaker and to any another speaker. 
@@ -12,6 +19,6 @@ Comparing with traditional one-to-one or many-to-many tasks, it is more difficul
 
 | **Source** | **Target** | **Ours** | **AdaIN-VC** | **AutoVC** | **VQVC+** | **AGAIN-VC** | **Transcription** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| <audio width=130 src="audios/source/p227_019.wav" controls preload></audio> | <audio src="audios/target/p313_397.wav" controls preload></audio> | <audio src="audios/PAVC_128/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/adainvc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/autovc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/vqvc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/againvc/m2f/p227_0192p313_397.wav" controls preload></audio> | "Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows." |
+| <audio src="audios/source/p227_019.wav" controls preload></audio> | <audio src="audios/target/p313_397.wav" controls preload></audio> | <audio src="audios/PAVC_128/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/adainvc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/autovc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/vqvc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/againvc/m2f/p227_0192p313_397.wav" controls preload></audio> | "Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows." |
 
 ---

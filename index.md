@@ -1,4 +1,4 @@
-## This is a demo webpage for paper "Two-Pathway Style Embedding for Arbitrary Voice Conversion"
+## This is a demo webpage for paper "Arbitrary Voice Conversion via Phoneme Attention"
 - - -
 ## Abstract
 Arbitrary voice conversion, also named as zero-shot voice conversion, is a challenging task which transforms the voice from one speaker and to any another speaker. 

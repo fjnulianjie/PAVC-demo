@@ -4,7 +4,7 @@ audio{
 	width: 180px;
 	margin: auto;
 }
-p{
+a{
 	width: 300px;
 }
 </style>
@@ -22,6 +22,6 @@ Comparing with traditional one-to-one or many-to-many tasks, it is more difficul
 
 | **Source** | **Target** | **Ours** | **AdaIN-VC** | **AutoVC** | **VQVC+** | **AGAIN-VC** | **Transcription** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| <audio src="audios/source/p227_019.wav" controls preload></audio> | <audio src="audios/target/p313_397.wav" controls preload></audio> | <audio src="audios/PAVC_128/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/adainvc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/autovc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/vqvc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/againvc/m2f/p227_0192p313_397.wav" controls preload></audio> | <p>"Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows."</p> |
+| <audio src="audios/source/p227_019.wav" controls preload></audio> | <audio src="audios/target/p313_397.wav" controls preload></audio> | <audio src="audios/PAVC_128/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/adainvc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/autovc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/vqvc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/againvc/m2f/p227_0192p313_397.wav" controls preload></audio> | ～"Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows."～ |
 
 ---

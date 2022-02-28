@@ -18,7 +18,7 @@ Comparing with traditional one-to-one or many-to-many tasks, it is more difficul
 #### male-to-female
 
 | **Source** | **Target** | **Ours** | **AdaIN-VC** | **AutoVC** | **VQVC+** | **AGAIN-VC** | **Translation of source** |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :-----------------: |
 | <audio src="audios/source/p227_019.wav" controls preload></audio> | <audio src="audios/target/p313_397.wav" controls preload></audio> | <audio src="audios/PAVC_128/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/adainvc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/autovc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/vqvc/m2f/p227_0192p313_397.wav" controls preload></audio> | <audio src="audios/againvc/m2f/p227_0192p313_397.wav" controls preload></audio> | <font size=2>"Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows."</font> |
 
 ---

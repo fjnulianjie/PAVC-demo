@@ -5,7 +5,7 @@ audio{
 	margin: auto;
 }
 th:nth-child(8){
-	width: 400px;
+	width: 700px;
 }
 </style>
 - - -

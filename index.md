@@ -4,6 +4,9 @@ audio{
 	width: 180px;
 	margin: auto;
 }
+font{
+	width: 300px;
+}
 </style>
 - - -
 ## Abstract

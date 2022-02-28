@@ -1,7 +1,7 @@
 <style>
 audio{
 	height: 50px;
-	width: 100px;
+	width: 150px;
 	margin: auto;
 }
 </style>

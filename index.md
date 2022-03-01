@@ -63,3 +63,19 @@ Comparing with traditional one-to-one or many-to-many tasks, it is more difficul
 | <audio src="audios/source/p306_304.wav" controls preload></audio> | <audio src="audios/target/p351_355.wav" controls preload></audio> | <audio src="audios/PAVC_128/f2f/p306_3042p351_355.wav" controls preload></audio> | <audio src="audios/adainvc/f2f/p306_3042p351_355.wav" controls preload></audio> | <audio src="audios/autovc/f2f/p306_3042p351_355.wav" controls preload></audio> | <audio src="audios/vqvc/f2f/p306_3042p351_355.wav" controls preload></audio> | <audio src="audios/againvc/f2f/p306_3042p351_355.wav" controls preload></audio> |
 
 ---
+
+#### Ablation Study
+
+* first sentence: "Others have tried to explain the phenomenon physically."
+* second sentence: "The sisters also became the top two players in the world."
+* third sentence: "To the Hebrews it was a token that there would be no more universal floods. "
+* fourth sentence: "We've always had three options, and none of them perfect."
+
+| **Source** | **Target** | **Ours** | **-PAIN** | **-PANet** |
+| :---: | :---: | :---: | :---: | :---: |
+| <audio src="audios/source/p347_017.wav" controls preload></audio> | <audio src="audios/target/p323_122.wav" controls preload></audio> | <audio src="audios/PAVC_128/m2f/p347_0172p323_122.wav" controls preload></audio> | <audio src="audios/PAVC-PAIN/m2f/p347_0172p323_122.wav" controls preload></audio> |<audio src="audios/PAVC-PANet/m2f/p347_0172p323_122.wav" controls preload></audio> |
+| <audio src="audios/source/p376_199.wav" controls preload></audio> | <audio src="audios/target/p302_114.wav" controls preload></audio> | <audio src="audios/PAVC_128/m2m/p376_1992p302_114.wav" controls preload></audio> | <audio src="audios/PAVC-PAIN/m2m/p376_1992p302_114.wav" controls preload></audio> | <audio src="audios/PAVC-PANet/m2m/p376_1992p302_114.wav" controls preload></audio> |
+| <audio src="audios/source/p262_014.wav" controls preload></audio> | <audio src="audios/target/p347_120.wav" controls preload></audio> | <audio src="audios/PAVC_128/f2m/p262_0142p347_120.wav" controls preload></audio> | <audio src="audios/PAVC-PAIN/f2m/p262_0142p347_120.wav" controls preload></audio> | <audio src="audios/PAVC-PANet/f2m/p262_0142p347_120.wav" controls preload></audio> |
+| <audio src="audios/source/p306_304.wav" controls preload></audio> | <audio src="audios/target/p351_355.wav" controls preload></audio> | <audio src="audios/PAVC_128/f2f/p306_3042p351_355.wav" controls preload></audio> | <audio src="audios/PAVC-PAIN/f2f/p306_3042p351_355.wav" controls preload></audio> | <audio src="audios/PAVC-PANet/f2f/p306_3042p351_355.wav" controls preload></audio> |
+
+---

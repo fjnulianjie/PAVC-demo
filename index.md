@@ -57,13 +57,13 @@ Experimental results indicated that the proposed TSDF-VC method outperformed sta
 
 #### female-to-female
 
-* first sentence: "Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. "
+* first sentence: "Police were called to the ground and interviewed a number of people."
 * second sentence: "We've always had three options, and none of them perfect."
 
 | **Source** | **Target** | **Ours** | **AdaIN-VC** | **AutoVC** | **VQVC+** | **AGAIN-VC** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <audio src="audios/source/p262_018.wav" controls preload></audio> | <audio src="audios/target/p340_399.wav" controls preload></audio> | <audio src="audios/PAVC_128/f2f/p262_0182p340_399.wav" controls preload></audio> | <audio src="audios/adainvc/f2f/p262_0182p340_399.wav" controls preload></audio> | <audio src="audios/autovc/f2f/p262_0182p340_399.wav" controls preload></audio> | <audio src="audios/vqvc/f2f/p262_0182p340_399.wav" controls preload></audio> | <audio src="audios/againvc/f2f/p262_0182p340_399.wav" controls preload></audio> |
-| <audio src="audios/source/p306_304.wav" controls preload></audio> | <audio src="audios/target/p351_355.wav" controls preload></audio> | <audio src="audios/PAVC_128/f2f/p306_3042p351_355.wav" controls preload></audio> | <audio src="audios/adainvc/f2f/p306_3042p351_355.wav" controls preload></audio> | <audio src="audios/autovc/f2f/p306_3042p351_355.wav" controls preload></audio> | <audio src="audios/vqvc/f2f/p306_3042p351_355.wav" controls preload></audio> | <audio src="audios/againvc/f2f/p306_3042p351_355.wav" controls preload></audio> |
+| <audio src="audios/source/p257_275.wav" controls preload></audio> | <audio src="audios/target/p239_123.wav" controls preload></audio> | <audio src="audios/TSDFVC/f2f/p257_2752p239_123.wav" controls preload></audio> | <audio src="audios/adainvc/f2f/p257_2752p239_123.wav" controls preload></audio> | <audio src="audios/autovc/f2f/p257_2752p239_123.wav" controls preload></audio> | <audio src="audios/vqvc/f2f/p257_2752p239_123.wav" controls preload></audio> | <audio src="audios/againvc/f2f/p257_2752p239_123.wav" controls preload></audio> |
+| <audio src="audios/source/p266_223.wav" controls preload></audio> | <audio src="audios/target/p313_328.wav" controls preload></audio> | <audio src="audios/TSDFVC/f2f/p266_2232p313_328.wav" controls preload></audio> | <audio src="audios/adainvc/f2f/p266_2232p313_328.wav" controls preload></audio> | <audio src="audios/autovc/f2f/p266_2232p313_328.wav" controls preload></audio> | <audio src="audios/vqvc/f2f/p266_2232p313_328.wav" controls preload></audio> | <audio src="audios/againvc/f2f/p266_2232p313_328.wav" controls preload></audio> |
 
 ---
 

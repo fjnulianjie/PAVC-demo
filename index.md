@@ -17,8 +17,8 @@ Comparing with traditional one-to-one or many-to-many tasks, it is more difficul
 
 #### male-to-female
 
-* first sentence: "Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows."
-* second sentence: "Others have tried to explain the phenomenon physically."
+* source sentence: "Downing Street will make the second appointment in the Scotland Office today."
+* target sentence: "This gives a financial incentive to switch."
 
 | **Source** | **Target** | **Ours** | **AdaIN-VC** | **AutoVC** | **VQVC+** | **AGAIN-VC** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

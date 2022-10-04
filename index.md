@@ -29,13 +29,13 @@ Comparing with traditional one-to-one or many-to-many tasks, it is more difficul
 
 #### male-to-male
 
-* first sentence: "The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows."
-* second sentence: "The sisters also became the top two players in the world."
+* first sentence: "Their courage, and their honesty, should be respected."
+* second sentence: "I've got the same feeling as I had last week in Germany."
 
 | **Source** | **Target** | **Ours** | **AdaIN-VC** | **AutoVC** | **VQVC+** | **AGAIN-VC** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <audio src="audios/source/p260_022.wav" controls preload></audio> | <audio src="audios/target/p376_027.wav" controls preload></audio> | <audio src="audios/PAVC_128/m2m/p260_0222p376_027.wav" controls preload></audio> | <audio src="audios/adainvc/m2m/p260_0222p376_027.wav" controls preload></audio> | <audio src="audios/autovc/m2m/p260_0222p376_027.wav" controls preload></audio> | <audio src="audios/vqvc/m2m/p260_0222p376_027.wav" controls preload></audio> | <audio src="audios/againvc/m2m/p260_0222p376_027.wav" controls preload></audio> |
-| <audio src="audios/source/p376_199.wav" controls preload></audio> | <audio src="audios/target/p302_114.wav" controls preload></audio> | <audio src="audios/PAVC_128/m2m/p376_1992p302_114.wav" controls preload></audio> | <audio src="audios/adainvc/m2m/p376_1992p302_114.wav" controls preload></audio> | <audio src="audios/autovc/m2m/p376_1992p302_114.wav" controls preload></audio> | <audio src="audios/vqvc/m2m/p376_1992p302_114.wav" controls preload></audio> | <audio src="audios/againvc/m2m/p376_1992p302_114.wav" controls preload></audio> |
+| <audio src="audios/source/p260_030.wav" controls preload></audio> | <audio src="audios/target/p304_192.wav" controls preload></audio> | <audio src="audios/TSDFVC/m2m/p260_0302p304_192.wav" controls preload></audio> | <audio src="audios/adainvc/m2m/p260_0302p304_192.wav" controls preload></audio> | <audio src="audios/autovc/m2m/p260_0302p304_192.wav" controls preload></audio> | <audio src="audios/vqvc/m2m/p260_0302p304_192.wav" controls preload></audio> | <audio src="audios/againvc/m2m/p260_0302p304_192.wav" controls preload></audio> |
+| <audio src="audios/source/p243_027.wav" controls preload></audio> | <audio src="audios/target/p304_018.wav" controls preload></audio> | <audio src="audios/TSDFVC/m2m/p243_0272p304_018.wav" controls preload></audio> | <audio src="audios/adainvc/m2m/p243_0272p304_018.wav" controls preload></audio> | <audio src="audios/autovc/m2m/p243_0272p304_018.wav" controls preload></audio> | <audio src="audios/vqvc/m2m/p243_0272p304_018.wav" controls preload></audio> | <audio src="audios/againvc/m2m/p243_0272p304_018.wav" controls preload></audio> |
 
 
 ---

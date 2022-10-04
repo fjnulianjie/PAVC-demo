@@ -7,8 +7,11 @@ audio{
 </style>
 - - -
 ## Abstract
-Arbitrary voice conversion, also named as zero-shot voice conversion, is a challenging task which transforms the voice from one speaker and to any another speaker. 
-Comparing with traditional one-to-one or many-to-many tasks, it is more difficult and attractive in real-world scenarios. Some previous studies can achieve it, but most of them compress the speaker information of an utterance into a  fixed-length vector. To overcome the such problem, we propose a novel way to obtain a time-varying speaking style embedding by using an attention mechanism.Instead of static and averaged style information, we focus on how to obtain style information which depends on the content information.For that, we design the Phoneme Attention Net (PANet) and the Phoneme Attention Instance Normalization (PAIN), then combined them into our proposed Phoneme Attention Voice Conversion (PAVC) to achieve the style adaptive voice conversion. It can consider the influence of local content information on style distribution without parallel corpus. Experimental results demonstrate that the proposed PAVC outperforms the state-of-the-art approaches on arbitrary voice conversion.
+Arbitrary voice conversion (VC), also called zero-shot voice conversion, is a challenging task that involves the transformation of voices from one speaker to another.
+Most of the existing solutions either compress speaker utterance information into a fixed-length vector and then directly fuse deep content information without considering the ground content, or adaptively normalize deep content features with the style to match their global statistics.
+To overcome this problem, we designed a novel plug-and-play referred to as two-stride styles-to-content attention net (TSCNet) to capture time-dependent speaking-style embedding by using an attention mechanism. 
+Considering both global statistics and local information, we propose a two-scale deep fusion VC (TSDF-VC) model for similar and style-adaptive VC. 
+Experimental results indicated that the proposed TSDF-VC method outperformed state-of-the-art approaches for arbitrary VC.
 - - -
 
 ### Demo Utterances (All of the following speakers were not seen during training)
